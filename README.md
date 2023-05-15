@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Jose Hancco <img src="https://emoji.gg/assets/emoji/7333-parrotdance.gif" width="35"></h1>
 
- <img src="https://raw.githubusercontent.com/Yasperterian/Yasperterian/output/github-contribution-grid-snake.svg" alt="snake"></center>
+ <img src="https://raw.githubusercontent.com/Jose4HM/Jose4HM/output/github-contribution-grid-snake.svg" alt="snake"></center>
 <br>
 
 ## :sassy_man:  About me
@@ -12,12 +12,12 @@
 <br>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Yasperterian&theme=synthwave" alt="7oSkaaa" /></p>
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=Jose4HM&theme=synthwave" alt="7oSkaaa" /></p>
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
 	<a href="mailto:jhanccoma@unsa.edu.pe"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://github.com/Yasperterian"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="https://github.com/Jose4HM"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 	<a href="https://wa.me/+51955128470"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
 	<a href="https://www.facebook.com/J4HM.me"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 	<a href="https://www.instagram.com/Jos.4HM/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=plastic&logo=instagram&logoColor=white" alt="Instagram"/></a>
@@ -67,10 +67,10 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/Yasperterian/github-readme-stats"><img alt="Yasperterian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Yasperterian&show_icons=true&count_private=true&theme=synthwave" height="192px"/></a>
+    <a href="https://github.com/Jose4HM/github-readme-stats"><img alt="Jose4HM's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Jose4HM&show_icons=true&count_private=true&theme=synthwave" height="192px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yasperterian&langs_count=10&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="7oSkaaa" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Jose4HM&langs_count=10&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="7oSkaaa" height="192px"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
@@ -79,7 +79,7 @@
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/Yasperterian"><img alt="Yasperterian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Yasperterian&custom_title=Yasperterian's%20Contribution%20Graph&theme=react-dark&hide_border=true&area=true" /></a>
+   <a href="https://github.com/Jose4HM"><img alt="Jose4HM's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Jose4HM&custom_title=Jose4HM's%20Contribution%20Graph&theme=react-dark&hide_border=true&area=true" /></a>
   <br/>
 
 
@@ -87,7 +87,7 @@
 
 ## :trophy: Git profile Trophies
 
-<p align="center"> <a href="https://github.com/Yasperterian/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Yasperterian&layout=compact&theme=algolia" alt="Yasperterian" /></a> </p>
+<p align="center"> <a href="https://github.com/Jose4HM/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Jose4HM&layout=compact&theme=algolia" alt="Jose4HM" /></a> </p>
 
 
 Last Edited on: 10/02/2022
